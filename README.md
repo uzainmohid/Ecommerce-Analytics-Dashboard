@@ -44,16 +44,16 @@ report/        # executive summary
 ## 📸 Dashboard Previews
 
 1. **Monthly Revenue Trend**  
-   ![Revenue Trend](dashboard/revenue_trend.png)
+   ![Revenue Trend](dashboard/monthly_revenue_trend.png)
 
 2. **Revenue by Category**  
-   ![Category Revenue](dashboard/category_revenue.png)
+   ![Category Revenue](dashboard/revenue_by_category.png)
 
 3. **Customer Churn Risk**  
    ![Churn Distribution](dashboard/churn_distribution.png)
 
 4. **Top 10 Customers by Revenue**  
-   ![Top Customers](dashboard/top_customers.png)
+   ![Top Customers](dashboard/top10_customers.png)
 
 
 
